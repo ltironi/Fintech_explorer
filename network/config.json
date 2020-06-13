@@ -8,13 +8,13 @@
     "text": ""
   },
   "text": {
-    "more": "",
-    "intro": "",
+    "more": "test graph",
+    "intro": "test graph\t\t",
     "title": "fintechs"
   },
   "legend": {
     "edgeLabel": "edges",
-    "colorLabel": "Modularity class",
+    "colorLabel": "Modularity",
     "nodeLabel": "nodes"
   },
   "features": {
